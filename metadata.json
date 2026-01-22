@@ -1,0 +1,7 @@
+{
+  "name": "أدكاري (Adkari)",
+  "description": "تطبيق إسلامي عصري للأذكار والأحاديث ومواقيت الصلاة، يدعم الوضع الليلي ونظام اشتراكات.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
